@@ -4,4 +4,5 @@ coverage/
 .env
 .env.*
 !.env.example
+Reglas de negocio 1 Clientes.txt
 .DS_Store
